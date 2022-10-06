@@ -1,0 +1,39 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  color: #00277e;
+  padding: 20px 20px;
+}
+.header-title {
+  font-size: 25px;
+  font-weight: bold;
+}
+.header-nav ul{
+  display: flex;
+  justify-content: space-between;
+}
+.header-nav li {
+  margin-right: 30px;
+  list-style:none;
+  font-size: 20px;
+  font-weight: bold;
+}
+.main-image-container {
+  margin-top:100px;
+}
+.main-image-container img {
+  width: 50%;
+  margin: 0px 0px 0px auto;
+  display: block;
+}
+.concept {
+  margin-top: -150px;
+}
+.concept-title {
+  font-size: 70px;
+}
+.concept-label {
+  background-color:#00277e;
+  width: 75%;
+  height: 180px;
+}
